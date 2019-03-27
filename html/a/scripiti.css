@@ -1,0 +1,19 @@
+h4 {
+font-family: 'Arial';
+font-size: 20pt;
+color: blue;
+
+}
+
+#tag {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.titulo{
+    font-style: italic;
+    font-size: 18pt;
+}
+.bg-red{
+    background-color: red;
+}
